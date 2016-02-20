@@ -2,4 +2,4 @@
 Cordova Demo app from the Timo Ernst F7 Pure Template.
 <br />Versione css per ios.
 <br />Testata su Simulator iPhone 6.
-L'app è stata realizzata a scopi didattici .
+<br />L'app è stata realizzata a scopi didattici .
